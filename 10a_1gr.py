@@ -21,5 +21,5 @@ print(5+6)
 10 Minalto Jana
 
 11 Obrazcova Marija
-
+print(2+2+2);
 12 Ðvacka Marija
